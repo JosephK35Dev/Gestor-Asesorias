@@ -11,3 +11,5 @@
 .passage>p{margin:0 0 15px;padding:5px 7px;border-radius:6px;transition:background .2s,box-shadow .2s}.passage>p:last-child{margin-bottom:0}.passage>p.evidence-highlight{background:#29434a;box-shadow:inset 3px 0 #78d1d7}.rq-hint-row{display:flex;align-items:flex-start;gap:9px;margin:7px 0 0 29px}.hint-button{border:1px solid #3c5860;background:#17272d;color:#8bd8de;border-radius:6px;padding:5px 8px;font:inherit;font-size:9px;font-weight:700;cursor:pointer;white-space:nowrap}.hint-button:hover{background:#223c43}.hint-button:focus-visible{outline:2px solid #8bd8de;outline-offset:2px}.rq-hint{margin:3px 0 0;color:#b7cbd0;font-size:10px;line-height:1.5}.reading-question .rq-options{margin-top:9px}@media(max-width:550px){.rq-hint-row{margin-left:0;flex-wrap:wrap}.passage>p{padding:4px}}
 
 .slide-lead,.slide-note{white-space:pre-line}
+
+.quiz-passage{font-size:13px;line-height:1.55;padding:12px 15px;margin:8px 0 14px;max-height:210px;overflow:auto}
